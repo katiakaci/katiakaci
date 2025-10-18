@@ -7,7 +7,7 @@ Currently learning **C#** and exploring **React Native**. <img src="https://medi
 
 ### Where to find me
 📫 Email: [katiakaci2002@hotmail.ca](mailto:katiakaci2002@hotmail.ca)  
-💼 [LinkedIn](www.linkedin.com/in/katia-kaci)  
+💼 [LinkedIn](https://www.linkedin.com/in/katia-kaci)  
 
 
 _Science is what we understand well enough to explain to a computer. Art is everything else we do. ✨_
